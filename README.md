@@ -13,6 +13,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/color1one.svg?style=social)](https://twitter.com/color1one)
 
+[![github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/one1color)
+
+[![instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E1306C)](https://www.instagram.com/one1color/)
 <!--
 **one1color/one1color** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
