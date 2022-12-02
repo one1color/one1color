@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Koki, iOS developer based in Berlin.
 ## Summary
 
 ## Tech Stack at Work
