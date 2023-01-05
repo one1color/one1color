@@ -11,6 +11,10 @@ My name is Koki, iOS developer based in Berlin.
 
 [![github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/one1color)
 
+
+##Setup
+![macbook pro](https://img.shields.io/badge/M1%20Max%20MacBook%20Pro%2014'-000000?style=for-the-badge&logo=apple)
+
 <!--
 **one1color/one1color** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
