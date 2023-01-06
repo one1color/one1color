@@ -3,7 +3,6 @@ My name is Koki, iOS developer based in Berlin.
 
 ## Tech Stack at Work
 ![swift](https://img.shields.io/badge/Swift-000?style=for-the-badge&logo=swift)
-
 ![xcode](https://img.shields.io/badge/Xcode-000?style=for-the-badge&logo=xcode)
 
 
